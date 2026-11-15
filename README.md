@@ -29,6 +29,10 @@ Aplikasi kalkulator nilai akademik berbasis Flutter yang memungkinkan pengguna m
 3. Jalankan `flutter pub get`.
 4. Jalankan `flutter run`.
 
+## Download
+
+[![Download APK](https://img.shields.io/badge/Download-Android_APK-34A853?style=for-the-badge&logo=android&logoColor=white)](https://github.com/kagoome/Student-Grade-Calculator/releases/latest)
+
 ## Requirements
 
 - Flutter SDK
